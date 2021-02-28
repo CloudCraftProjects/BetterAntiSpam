@@ -1,0 +1,7 @@
+name: BetterAntiSpam
+version: @version@
+main: tk.booky.betterantispam.BetterAntiSpamMain
+api-version: 1.16
+prefix: BAS
+authors: [ booky10 ]
+website: https://booky.tk/
